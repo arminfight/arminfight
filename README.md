@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @arminfight
-- 👀 I’m interested in python
-- 🌱 I’m currently learning java
+- 👀 I’m programing with python and java
+- 🌱 I’m currently learning unity
+- ✨enjoy my projects
 
 
 <!---
